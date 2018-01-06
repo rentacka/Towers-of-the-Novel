@@ -1,0 +1,32 @@
+﻿NWord2Vec
+ Mit
+https://github.com/richorama/NWord2Vec
+
+MarkovDemo
+ しばやん (id:shiba-yan) 
+https://github.com/shibayan/MarkovDemo
+
+Accord.NET Framework
+ LGPL Copyright (c) 2009-2017, Accord.NET Authors <authors@accord-framework.net>
+https://github.com/accord-net/framework
+
+.NET形態素解析エンジンNMeCab プロジェクト日本語トップページ - OSDN
+ LGPL 京都大学情報学研究科−日本電信電話株式会社コミュニケーション科学基礎研究所 共同研究ユニットプロジェクト
+https://ja.osdn.net/projects/nmecab/
+http://taku910.github.io/mecab/libmecab.html
+
+Newtonsoft.Json
+Mit
+https://www.newtonsoft.com/json
+
+adnansiddique37/Random
+adnansiddique37
+https://gist.github.com/adnansiddique37/2fdde732f271477f1e51
+
+Gensim
+LGPL
+https://radimrehurek.com/gensim/intro.html
+
+たくさんのライブラリのおかげで、WorldTrueVec（一般受け）のライブラリが完成しました。
+私のライブラリも広く使ってもらうために、先人の偉大なライブラリと同じようにLGPLにします。
+あと、それから、Doc2VecとかGensimとか色々入ってますが、全部、私がブログとか色々読み漁って、想像で作ったもどきなので、本家とまったく同じ動作は期待できませんのでご了承ください。
